@@ -1,0 +1,15 @@
+# Restaurant Images
+Store all restaurant and food menu images here.
+
+Suggested organization:
+- food/ (food items, dishes)
+- interior/ (restaurant interior photos)
+- exterior/ (building exterior)
+- staff/ (team photos)
+- events/ (special events, celebrations)
+
+Image guidelines:
+- Format: JPG or PNG
+- Resolution: 1920x1080px for hero images, 800x600px for gallery
+- File size: Under 500KB each for fast loading
+- Use descriptive filenames (e.g., grilled-chicken-special.jpg)

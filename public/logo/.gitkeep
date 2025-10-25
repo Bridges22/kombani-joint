@@ -1,0 +1,12 @@
+# Logo folder
+Place your Kombani Joint Pub & Grill logo files here.
+
+Expected files:
+- kombani-logo.png (main logo)
+- kombani-logo-dark.png (for dark backgrounds, if needed)
+- kombani-logo.svg (vector version, if available)
+
+Recommended specifications:
+- Format: PNG with transparent background
+- Size: 200x200px minimum for crisp display
+- File size: Under 50KB for fast loading

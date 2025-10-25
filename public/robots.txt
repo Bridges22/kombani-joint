@@ -1,0 +1,11 @@
+
+User-agent: *
+Allow: /
+Allow: /about
+Allow: /menu
+Allow: /lodge
+Allow: /car-hire
+Allow: /gallery
+Allow: /contact
+
+Sitemap: https://example.com/sitemap.xml

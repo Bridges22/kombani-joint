@@ -1,0 +1,16 @@
+# Lodge & Conference Images
+Store all accommodation and conference facility images here.
+
+Suggested organization:
+- rooms/ (guest rooms, suites)
+- conference/ (meeting rooms, conference halls)
+- amenities/ (pool, gym, spa, etc.)
+- exterior/ (building exterior, grounds)
+- dining/ (restaurant, bar areas)
+
+Image guidelines:
+- Format: JPG or PNG
+- Resolution: 1920x1080px for hero images, 1200x800px for galleries
+- File size: Under 500KB each
+- Professional photography recommended
+- Use descriptive filenames (e.g., deluxe-suite-bedroom.jpg)

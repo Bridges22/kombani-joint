@@ -1,0 +1,16 @@
+# Car Hire Images
+Store all vehicle rental images here.
+
+Suggested organization:
+- sedans/ (sedan vehicles)
+- suvs/ (SUV vehicles)
+- luxury/ (luxury vehicles)
+- economy/ (economy vehicles)
+- fleet/ (fleet overview photos)
+
+Image guidelines:
+- Format: JPG or PNG
+- Resolution: 1200x800px recommended
+- File size: Under 400KB each
+- Show vehicles from multiple angles
+- Use descriptive filenames (e.g., toyota-camry-2024.jpg)

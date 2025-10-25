@@ -1,0 +1,16 @@
+# Gallery Images
+Store all general gallery images here.
+
+Suggested organization:
+- events/ (special events, parties)
+- atmosphere/ (ambiance, mood photos)
+- customers/ (happy customers, testimonials)
+- seasonal/ (holiday decorations, seasonal events)
+- awards/ (certificates, recognition)
+
+Image guidelines:
+- Format: JPG or PNG
+- Resolution: 1200x800px minimum
+- File size: Under 400KB each for fast gallery loading
+- High-quality, well-lit photos
+- Use descriptive filenames (e.g., christmas-party-2024.jpg)
