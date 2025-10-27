@@ -1,45 +1,44 @@
-
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://example.com/</loc>
-    <lastmod>2025-01-15</lastmod>
+    <loc>https://kombanijoint.co.ke/</loc>
+    <lastmod>2025-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://example.com/about</loc>
-    <lastmod>2025-01-15</lastmod>
+    <loc>https://kombanijoint.co.ke/about</loc>
+    <lastmod>2025-10-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/menu</loc>
-    <lastmod>2025-01-15</lastmod>
+    <loc>https://kombanijoint.co.ke/menu</loc>
+    <lastmod>2025-10-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://example.com/lodge</loc>
-    <lastmod>2025-01-15</lastmod>
+    <loc>https://kombanijoint.co.ke/lodge</loc>
+    <lastmod>2025-10-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/car-hire</loc>
-    <lastmod>2025-01-15</lastmod>
+    <loc>https://kombanijoint.co.ke/car-hire</loc>
+    <lastmod>2025-10-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://example.com/gallery</loc>
-    <lastmod>2025-01-15</lastmod>
+    <loc>https://kombanijoint.co.ke/gallery</loc>
+    <lastmod>2025-10-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
-    <loc>https://example.com/contact</loc>
-    <lastmod>2025-01-15</lastmod>
+    <loc>https://kombanijoint.co.ke/contact</loc>
+    <lastmod>2025-10-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
